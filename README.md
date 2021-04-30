@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SagnikIISER
-- 👀 I’m broadly interested in Consensed Matter and Mathematical Physics.
+- 👋 Hi, I’m [@SagnikIISER](sagnikiiser.github.io/)
+- 👀 I’m broadly interested in Theoretical Consensed Matter and Mathematical Physics.
 - 🌱 I’m currently working on Thermalisation using Keldysh-Shcwinger Field Theory.
 - 💞️ I’m looking to collaborate on [LEAN](https://leanprover.github.io/).
 - 📫 You can to reach me at sagnik.ghosh@students.iiserpune.ac.in
