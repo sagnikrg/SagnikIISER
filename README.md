@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@SagnikIISER](sagnikiiser.github.io/)
+- 👋 Hi, I’m [@SagnikIISER](https://sagnikiiser.github.io/)
 - 👀 I’m broadly interested in Theoretical Consensed Matter and Mathematical Physics.
 - 🌱 I’m currently working on Thermalisation using Keldysh-Shcwinger Field Theory.
 - 💞️ I’m looking to collaborate on [LEAN](https://leanprover.github.io/).
