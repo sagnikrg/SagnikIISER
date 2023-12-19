@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@SagnikIISER](https://sagnikiiser.github.io/)
 - 👀 I’m broadly interested in Theoretical Consensed Matter and Mathematical Physics.
-- 🌱 I’m currently working on ETH-MBL Transitions in Tim-crystalline systems.
+- 🌱 I’m currently working on ETH-MBL Transitions in Time-crystalline systems.
 - 💞️ I’m looking to collaborate on [LEAN](https://leanprover.github.io/).
 - 📫 You can to reach me at sghosh@uni-bonn.de
 
